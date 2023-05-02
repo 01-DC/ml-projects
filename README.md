@@ -15,3 +15,5 @@ Implemented KNN algorithm from scratch and used it over iris dataset. Tried 3NN,
 Created a regression model to calculate mobile phone price based on mobile phone features. Used dataset from [kaggle](https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price). Performed feature engineering and rigorous data cleaning to properly use all available data.
 
 ### Twitter Sentiment Analysis
+
+Created a sentiment analysis model using LSTM cells on twitter dataset. Used string vectorizer to form vectors out of input sentences along with PorterStemmer. Also performed data analysis and data cleaning.
